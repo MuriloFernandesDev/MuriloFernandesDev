@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/>, I'm Murilo Fernandes</h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=RaulFelipeGarcia94&color=blue" alt="Profile views"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=muriloflimaa&color=blue" alt="Profile views"/></p>
 
 - 💻 Front-End Developer
 - 🎓 Systems analysis and development
@@ -38,7 +38,7 @@
 ## 🛰 &nbsp;Social Links
 
 <p align="left" style="background:blue"/>
-<a href="https://www.linkedin.com/in/muriloflimaa/" target="_blank">
+<a href="https://www.linkedin.com/in/murilo-fernandes-791926225/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/muriloflimaa/" target="_blank">
@@ -46,7 +46,7 @@
 </a>
 
 <!--
-**RaulFelipeGarcia94/RaulFelipeGarcia94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Muriloflimaa/Muriloflimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
