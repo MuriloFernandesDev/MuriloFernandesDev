@@ -1,12 +1,12 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaulFelipeGarcia94/b4113650e4fc3ab19e438f4b821b100b/raw/ca7739b64f19c297568b16e1e63b5dcb36de85f4/githubcard.svg"/>
+<img align="right" height="590em" src="https://avatars.githubusercontent.com/u/103587328?v=4"/>
 
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/>, I'm Raul Garcia</h1>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/>, I'm Murilo Fernandes</h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=RaulFelipeGarcia94&color=blue" alt="Profile views"/></p>
 
 - 💻 Front-End Developer
 - 🎓 Systems analysis and development
-- 💼 Zero One Technology 
+- 💼 BuyPhone
 
 <br></br>
 
@@ -31,17 +31,17 @@
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=raulfelipegarcia94&layout=compact&show_icons=true&theme=react" alt="raulgarcia's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulfelipegarcia94&layout=compact&show_icons=true&theme=react" alt="raulgarcia's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=muriloflimaa&layout=compact&show_icons=true&theme=react" alt="muriloflimaa stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloflimaa&layout=compact&show_icons=true&theme=react" alt="Muriloflimaa stats"/>
 </p>
 
 ## 🛰 &nbsp;Social Links
 
 <p align="left" style="background:blue"/>
-<a href="https://www.linkedin.com/in/raulfelipegarcia/" target="_blank">
+<a href="https://www.linkedin.com/in/muriloflimaa/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/raulfelipegarcia.dev/" target="_blank">
+<a href="https://www.instagram.com/muriloflimaa/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
