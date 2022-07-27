@@ -1,4 +1,4 @@
-<img align="right" height="590em" padding-bottom="2rem" src="https://i.pinimg.com/736x/9d/69/28/9d69289014dc738265f3792a3ad4f762.jpg"/>
+<img align="right" height="300em" padding-bottom="2rem" src="https://i.pinimg.com/736x/9d/69/28/9d69289014dc738265f3792a3ad4f762.jpg"/>
 
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/>, I'm Murilo Fernandes</h1>
 
