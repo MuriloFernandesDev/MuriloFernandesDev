@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://avatars.githubusercontent.com/u/103587328?v=4"/>
+<img align="right" height="590em" src="https://i.pinimg.com/736x/9d/69/28/9d69289014dc738265f3792a3ad4f762.jpg"/>
 
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/>, I'm Murilo Fernandes</h1>
 
@@ -31,8 +31,8 @@
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=muriloflimaa&layout=compact&show_icons=true&theme=react" alt="muriloflimaa stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloflimaa&layout=compact&show_icons=true&theme=react" alt="Muriloflimaa stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=muriloflimaa&layout=compact&show_icons=true&theme=tokyonight" alt="muriloflimaa stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloflimaa&layout=compact&show_icons=true&theme=tokyonight" alt="Muriloflimaa stats"/>
 </p>
 
 ## 🛰 &nbsp;Social Links
