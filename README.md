@@ -1,6 +1,6 @@
 <img align="right" height="300em" padding-bottom="2rem" src="https://i.pinimg.com/736x/9d/69/28/9d69289014dc738265f3792a3ad4f762.jpg"/>
 
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/>, I'm Murilo Fernandes</h1>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"/>, I'm Murilo Fernandes</h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=muriloflimaa&color=blue" alt="Profile views"/></p>
 
@@ -21,10 +21,8 @@
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=A259FF)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![WebStorm](https://img.shields.io/badge/-Web%20Storm-05122A?style=flat&logo=webstorm)&nbsp;
 
 <br></br>
 <div padding='20px'></div>
