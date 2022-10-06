@@ -1,8 +1,8 @@
-<div display="flex" flex-direction="column">
-<img align="right" height="300em" padding-bottom="2rem" src="https://i.pinimg.com/736x/9d/69/28/9d69289014dc738265f3792a3ad4f762.jpg"/>
 
+<img align="right" height="300em" padding-bottom="2rem" src="https://i.pinimg.com/736x/9d/69/28/9d69289014dc738265f3792a3ad4f762.jpg"/>
+<br></br>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"/>, I'm Murilo Fernandes</h1>
-</div>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=muriloflimaa&color=blue" alt="Profile views"/></p>
 
 - 💻 Front-End Developer
