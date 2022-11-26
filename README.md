@@ -7,7 +7,6 @@
 
 - 💻 Front-End Developer
 - 🎓 Systems analysis and development
-- 💼 BuyPhone
 
 <br></br>
 
