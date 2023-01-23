@@ -30,8 +30,8 @@
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=muriloflimaa&layout=compact&show_icons=true&theme=tokyonight" alt="muriloflimaa stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloflimaa&layout=compact&show_icons=true&theme=tokyonight" alt="Muriloflimaa stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MuriloFernandesDev&layout=compact&show_icons=true&theme=tokyonight" alt="muriloflimaa stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFernandesDev&layout=compact&show_icons=true&theme=tokyonight" alt="Muriloflimaa stats"/>
 </p>
 
 ## 🛰 &nbsp;Social Links
