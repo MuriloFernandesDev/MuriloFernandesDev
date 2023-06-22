@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=muriloflimaa&color=blue" alt="Profile views"/></p>
 
-- 💻 Front-End Developer
+- 💻 Full-Stack Developer
 - 🎓 Systems analysis and development
 
 <br></br>
